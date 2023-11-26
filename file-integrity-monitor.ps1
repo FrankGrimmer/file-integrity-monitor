@@ -1,4 +1,4 @@
-# File Integrity Monitor Tool - Frank Grimmer 2023
+# File Integrity Monitoring Tool - Frank Grimmer 2023
 
 # Adding the ability to use Windows file browsing.
 Add-Type -AssemblyName System.Windows.Forms
